@@ -29,8 +29,8 @@ Attribute Information:
 
 9. car name: string (unique for each instance)
 
-####PROJECT OBJECTIVE: Goal is to cluster the data and treat them as individual datasets to train Regression models to predict ‘mpg’
-Steps and tasks:
+#### PROJECT OBJECTIVE: Goal is to cluster the data and treat them as individual datasets to train Regression models to predict ‘mpg’
+#### Steps and tasks:
 
 1. Import and warehouse data:
 
