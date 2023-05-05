@@ -4,7 +4,7 @@
 
 
 #### CONTEXT: The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5
-continuous attributes
+#### continuous attributes
 
 DATA DESCRIPTION: The data concerns city-cycle fuel consumption in miles per gallon
 
