@@ -1,9 +1,9 @@
 # Unsupervised_K-Means_RegressionModels
 
-###DOMAIN: Automobile
+### DOMAIN: Automobile
 
 
-####CONTEXT: The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5
+#### CONTEXT: The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5
 continuous attributes
 
 DATA DESCRIPTION: The data concerns city-cycle fuel consumption in miles per gallon
